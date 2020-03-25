@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "444222332655",
+    "firebase_url": "https://haris2-7a618.firebaseio.com",
+    "project_id": "haris2-7a618",
+    "storage_bucket": "haris2-7a618.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444222332655:android:57b79e80e4204871bec51a",
+        "android_client_info": {
+          "package_name": "club.wardaddy.hari_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444222332655-gr809dn0sedkkdfqi4eqamjctmjbq790.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzf_do1EHIX7Xih6ki9owUpIBdo3yMl28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444222332655-gr809dn0sedkkdfqi4eqamjctmjbq790.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
